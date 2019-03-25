@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/botree/.android/build-cache/5a521109de7af9d03e6d79402031c33d854ccea0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

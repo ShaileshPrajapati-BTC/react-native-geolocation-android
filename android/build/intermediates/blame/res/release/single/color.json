@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/botree/.android/build-cache/818dca2a0426aa32e0f8f44b4248fae3dbb49c12/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/botree/.android/build-cache/818dca2a0426aa32e0f8f44b4248fae3dbb49c12/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/botree/.android/build-cache/818dca2a0426aa32e0f8f44b4248fae3dbb49c12/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]

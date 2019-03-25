@@ -1,0 +1,116 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+        "spec": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:transistorsoft/react-native-background-geolocation-android.git",
+          "sshUrl": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+          "httpsUrl": "git+https://github.com/transistorsoft/react-native-background-geolocation-android.git",
+          "gitUrl": "git://github.com/transistorsoft/react-native-background-geolocation-android.git",
+          "shortcut": "github:transistorsoft/react-native-background-geolocation-android",
+          "directUrl": "https://raw.githubusercontent.com/transistorsoft/react-native-background-geolocation-android/master/package.json"
+        }
+      },
+      "/home/parth/parth/projects/react-native/Caregiver-Mobile-App"
+    ]
+  ],
+  "_from": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+  "_id": "react-native-background-geolocation-android@2.12.0-beta.15",
+  "_inCache": true,
+  "_location": "/react-native-background-geolocation-android",
+  "_phantomChildren": {
+    "xmldom": "0.1.27"
+  },
+  "_requested": {
+    "raw": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+    "spec": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:transistorsoft/react-native-background-geolocation-android.git",
+      "sshUrl": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+      "httpsUrl": "git+https://github.com/transistorsoft/react-native-background-geolocation-android.git",
+      "gitUrl": "git://github.com/transistorsoft/react-native-background-geolocation-android.git",
+      "shortcut": "github:transistorsoft/react-native-background-geolocation-android",
+      "directUrl": "https://raw.githubusercontent.com/transistorsoft/react-native-background-geolocation-android/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git#35159856a60f981e7511903afca9172339a37b5e",
+  "_shasum": "13f86e5a34875389feae50ebf00490ef97c04e23",
+  "_shrinkwrap": null,
+  "_spec": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git",
+  "_where": "/home/parth/parth/projects/react-native/Caregiver-Mobile-App",
+  "author": {
+    "name": "Chris Scott",
+    "email": "chris@transistorsoft.com"
+  },
+  "bugs": {
+    "url": "https://github.com/transistorsoft/react-native-background-geolocation-android/issues"
+  },
+  "dependencies": {
+    "cocoa-lumberjack": "^3.0.5",
+    "fast-plist": "^0.1.2",
+    "plist": "^2.0.1",
+    "react-native-background-fetch": "~2.4.1",
+    "xcode": "^0.9.1"
+  },
+  "description": "The most sophisticated background location tracking & geofencing module with battery-conscious motion-detection",
+  "devDependencies": {},
+  "gitHead": "35159856a60f981e7511903afca9172339a37b5e",
+  "homepage": "https://www.transistorsoft.com/shop/products/react-native-background-geolocation",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "background",
+    "geolocation",
+    "tracking",
+    "geofence",
+    "geofencing"
+  ],
+  "license": "MIT",
+  "name": "react-native-background-geolocation-android",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.36.0"
+  },
+  "readme": "Background Geolocation for React Native &middot; [Premium Version]\n==============================================================================\n\n[![](https://dl.dropboxusercontent.com/s/nm4s5ltlug63vv8/logo-150-print.png?dl=1)](https://www.transistorsoft.com)\n\n-------------------------------------------------------------------------------\n\nThe *most* sophisticated background **location-tracking & geofencing** module with battery-conscious motion-detection intelligence for **iOS** and **Android**.\n\nThe plugin's [Philosophy of Operation](../../wiki/Philosophy-of-Operation) is to use **motion-detection** APIs (using accelerometer, gyroscope and magnetometer) to detect when the device is *moving* and *stationary*.  \n\n- When the device is detected to be **moving**, the plugin will *automatically* start recording a location according to the configured `distanceFilter` (meters).  \n\n- When the device is detected be **stationary**, the plugin will automatically turn off location-services to conserve energy.\n\nAlso available for [Cordova](https://github.com/transistorsoft/cordova-background-geolocation-lt), [NativeScript](https://github.com/transistorsoft/nativescript-background-geolocation-lt) and pure native apps.\n\n----------------------------------------------------------------------------\n\n[![Google Play](https://dl.dropboxusercontent.com/s/80rf906x0fheb26/google-play-icon.png?dl=1)](https://play.google.com/store/apps/details?id=com.transistorsoft.backgroundgeolocation.react)\n\n![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)\n![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)\n\n\n# Contents\n- ### :books: [API Documentation](./docs/README.md)\n  - :wrench: [Configuration Options](./docs/README.md#wrench-configuration-options-1)\n  - :zap: [Events](./docs/README.md#zap-events-1)\n  - :small_blue_diamond: [Methods](./docs/README.md#large_blue_diamond-methods)        \n- ### [Installing the Plugin](#large_blue_diamond-installing-the-plugin)\n- ### [Setup Guides](#large_blue_diamond-setup-guides)\n- ### [Configure your License](#large_blue_diamond-configure-your-license)\n- ### [Android SDK Setup](#large_blue_diamond-android-sdk)\n- ### [Using the plugin](#large_blue_diamond-using-the-plugin)\n- ### [Example](#large_blue_diamond-example)\n- ### [Debugging](../../wiki/Debugging)\n- ### [Demo Application](#large_blue_diamond-demo-application)\n- ### [Testing Server](#large_blue_diamond-simple-testing-server)\n\n------------------------------------------------------------------------------\n\n\n## :large_blue_diamond: Installing the Plugin\n\n```\n$ npm install git+https://git@github.com:transistorsoft/react-native-background-geolocation-android.git --save\n\n```\n\n\n## :large_blue_diamond: Setup Guides\n\n### iOS\n:warning: If you're upgrading from the public `react-native-background-geolocation` version for iOS, you need to **completely remove that version now**.  This repo contains *both* iOS and Android.  Follow the iOS installation steps from scratch.\n\n- [`react-native link` Setup](docs/INSTALL-IOS-RNPM.md)\n- [Cocoapods](docs/INSTALL-IOS-COCOAPODS.md)\n- [Manual Setup](docs/INSTALL-IOS.md)\n\n### Android\n* [`react-native link` Setup](docs/INSTALL-ANDROID-RNPM.md)\n* [Manual Setup](docs/INSTALL-ANDROID.md)\n\n#### :information_source: Solving Android Gradle Conflicts.\n\nOnce of the most common build-issues with Android apps are gradle conflicts between modules specifying different versions of:\n- `compileSdkVersion`\n- `buildToolsVersion`\n- Google `play-services` / `firebase` version.\n- Google support libraries (ie `appcompat-v4`, `appcompat-v7`)\n\nFor more information, see the Wiki [Solving Android Gradle Conflicts](../../wiki/Solving-Android-Gradle-Conflicts)\n\n\n## :large_blue_diamond: Configure your license\n\n1. Login to Customer Dashboard to generate an application key:\n[www.transistorsoft.com/shop/customers](http://www.transistorsoft.com/shop/customers)\n![](https://gallery.mailchimp.com/e932ea68a1cb31b9ce2608656/images/b2696718-a77e-4f50-96a8-0b61d8019bac.png)\n\n2. Add your license-key to `android/app/src/main/AndroidManifest.xml`:\n\n```diff\n<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    package=\"com.transistorsoft.backgroundgeolocation.react\">\n\n  <application\n    android:name=\".MainApplication\"\n    android:allowBackup=\"true\"\n    android:label=\"@string/app_name\"\n    android:icon=\"@mipmap/ic_launcher\"\n    android:theme=\"@style/AppTheme\">\n\n    <!-- react-native-background-geolocation licence -->\n+     <meta-data android:name=\"com.transistorsoft.locationmanager.license\" android:value=\"YOUR_LICENCE_KEY_HERE\" />\n    .\n    .\n    .\n  </application>\n</manifest>\n```\n\n\n## :large_blue_diamond: Android SDK\n\nIf building from your local machine (as you should be), ensure you have the following items installed or updated in Android SDK Manager\n#### SDK Tools\n![](https://dl.dropboxusercontent.com/s/qdscbas4krc27c4/android-sdk-tools.png?dl=1)\n#### SDK Platforms\n![](https://dl.dropboxusercontent.com/s/qetghugog00puz2/android-sdk-platforms.png?dl=1)\n\n\n## :large_blue_diamond: Using the plugin ##\n\n```javascript\nimport BackgroundGeolocation from 'react-native-background-geolocation-android';\n```\n\n\n## :large_blue_diamond: Example\n\nThere are three main steps to using `BackgroundGeolocation`\n1. Wire up [event-listeners](./docs/README.md#zap-events)\n2. Executer [`#ready`](./docs/README.md#readydefaultconfig-successfn-failurefn) the plugin\n3. [`#start`](./docs/README.md#startsuccessfn-failurefn) the plugin\n\n```javascript\n\nimport BackgroundGeolocation from \"react-native-background-geolocation-android\";\n\nexport default class App extends Component {\n  componentDidMount() {\n    ////\n    // 1.  Wire up event-listeners\n    //\n\n    // This handler fires whenever bgGeo receives a location update.\n    BackgroundGeolocation.on('location', this.onLocation, this.onError);\n\n    // This handler fires when movement states changes (stationary->moving; moving->stationary)\n    BackgroundGeolocation.on('motionchange', this.onMotionChange);\n\n    // This event fires when a change in motion activity is detected\n    BackgroundGeolocation.on('activitychange', this.onActivityChange);\n\n    // This event fires when the user toggles location-services authorization\n    BackgroundGeolocation.on('providerchange', this.onProviderChange);\n\n    ////\n    // 2.  Execute #ready method\n    //\n    BackgroundGeolocation.ready({\n      // Geolocation Config\n      desiredAccuracy: 0,\n      distanceFilter: 10,\n      // Activity Recognition\n      stopTimeout: 1,\n      // Application config\n      debug: true, // <-- enable this hear sounds for background-geolocation life-cycle.\n      logLevel: BackgroundGeolocation.LOG_LEVEL_VERBOSE,\n      stopOnTerminate: false,   // <-- Allow the background-service to continue tracking when user closes the app.\n      startOnBoot: true,        // <-- Auto start tracking when device is powered-up.\n      // HTTP / SQLite config\n      url: 'http://yourserver.com/locations',\n      batchSync: false,       // <-- [Default: false] Set true to sync locations to server in a single HTTP request.\n      autoSync: true,         // <-- [Default: true] Set true to sync each location to server as it arrives.\n      headers: {              // <-- Optional HTTP headers\n        \"X-FOO\": \"bar\"\n      },\n      params: {               // <-- Optional HTTP params\n        \"auth_token\": \"maybe_your_server_authenticates_via_token_YES?\"\n      }\n    }, (state) => {\n      console.log(\"- BackgroundGeolocation is configured and ready: \", state.enabled);\n\n      if (!state.enabled) {\n        ////\n        // 3. Start tracking!\n        //\n        BackgroundGeolocation.start(function() {\n          console.log(\"- Start success\");\n        });\n      }\n    });\n  }\n\n  // You must remove listeners when your component unmounts\n  componentWillUnmount() {\n    // Remove BackgroundGeolocation listeners\n    BackgroundGeolocation.un('location', this.onLocation);\n    BackgroundGeolocation.un('motionchange', this.onMotionChange);\n    BackgroundGeolocation.un('activitychange', this.onActivityChange);\n    BackgroundGeolocation.un('providerchange', this.onProviderChange);\n\n    // Or just remove them all-at-once\n    BackgroundGeolocation.removeListeners();\n  }\n  onLocation(location) {\n    console.log('- [event] location: ', location);\n  }\n  onError(error) {\n    console.warn('- [event] location error ', error);\n  }\n  onActivityChange(activity) {\n    console.log('- [event] activitychange: ', activity);  // eg: 'on_foot', 'still', 'in_vehicle'\n  }\n  onProviderChange(provider) {\n    console.log('- [event] providerchange: ', provider);    \n  }\n  onMotionChange(location) {\n    console.log('- [event] motionchange: ', location.isMoving, location);\n  }\n}\n\n```\n\n:information_source: **NOTE:** The configuration **`{}`** provided to the `#ready` method is applied **only** when your app is **first booted** &mdash; for every launch thereafter, the plugin will automatically load the last known configuration from persistant storage.  If you wish to **force** the `#ready` method to *always* apply the supplied config `{}`, you can specify **`reset: true`**\n\n```javascript\nBackgroundGeolocation.ready({\n  reset: true,  // <-- true to always apply the supplied config\n  distanceFilter: 10\n}, (state) => {\n  console.log('- BackgroundGeolocation is ready: ', state);\n});\n```\n\n:warning: Do not execute *any* API method which will require accessing location-services until the callback to **`#ready*` executes (eg: `#getCurrentPosition`, `#watchPosition`, `#start`).\n\n### Promise API\n\nThe `BackgroundGeolocation` Javascript API supports [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) for *nearly* every method (the exceptions are **`#watchPosition`** and adding event-listeners via **`#on`** method.  For more information, see the [API Documentation](docs/README.md#large_blue_diamond-methods)\n\n```javascript\n// Traditional API still works:\nBackgroundGeolocation.ready({desiredAccuracy: 0, distanceFilter: 50}).then(state => {\n  console.log('- BackgroundGeolocation is ready: ', state);\n}).catch(error => {\n  console.log('- BackgroundGeolocation error: ', error);\n});\n```\n\n## :large_blue_diamond: [Demo Application](https://github.com/transistorsoft/rn-background-geolocation-demo)\n\nA fully-featured [Demo App](https://github.com/transistorsoft/rn-background-geolocation-demo) is available in its own public repo.  After first cloning that repo, follow the installation instructions in the **README** there.  This demo-app includes a settings-screen allowing you to quickly experiment with all the different settings available for each platform.\n\n![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)\n![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)\n\n\n## :large_blue_diamond: [Simple Testing Server](https://github.com/transistorsoft/background-geolocation-console)\n\nA simple Node-based [web-application](https://github.com/transistorsoft/background-geolocation-console) with SQLite database is available for field-testing and performance analysis.  If you're familiar with Node, you can have this server up-and-running in about **one minute**.\n\n![](https://dl.dropboxusercontent.com/s/px5rzz7wybkv8fs/background-geolocation-console-map.png?dl=1)\n\n![](https://dl.dropboxusercontent.com/s/tiy5b2oivt0np2y/background-geolocation-console-grid.png?dl=1)\n\n\n# License\n\nThe MIT License (MIT)\n\nCopyright (c) 2015 Chris Scott, Transistor Software\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/transistorsoft/react-native-background-geolocation-android.git"
+  },
+  "rnpm": {
+    "commands": {
+      "postlink": "node_modules/react-native-background-geolocation-android/scripts/postlink.js",
+      "postunlink": "node_modules/react-native-background-geolocation-android/scripts/postunlink.js"
+    },
+    "ios": {
+      "sharedLibraries": [
+        "libsqlite3",
+        "libz"
+      ]
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.12.0-beta.15"
+}

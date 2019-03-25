@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/xml/tslocationmanager_file_provider_path.xml",
+        "source": "/home/botree/.android/build-cache/c75fdb385855b49e2758217c23ef8d4c99562d14/output/res/xml/tslocationmanager_file_provider_path.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/xml/preferences.xml"
+    }
+]

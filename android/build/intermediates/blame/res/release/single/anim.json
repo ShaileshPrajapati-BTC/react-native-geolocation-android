@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/botree/.android/build-cache/4f325087bdff0133a0390d045a468b6008d3689d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/botree/react_project/Caregiver-Mobile-App/node_modules/react-native-background-geolocation-android/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/home/botree/.android/build-cache/fc77a07c27b1fab8f89888e7c868d261ce11c31e/output/res/anim/catalyst_slide_up.xml"
+    }
+]
